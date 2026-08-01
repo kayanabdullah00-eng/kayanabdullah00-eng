@@ -118,11 +118,14 @@ I'm genuinely passionate about **both sides** of what I do — writing code and 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+[![GitHub Stats](https://vercel.app)](https://github.com)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayanAlnizari&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&border_radius=12&hide_border=true)](https://github.com/KayanAlnizari)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayanAlnizari&layout=compact&theme=solarized-light&hide=html,css&border_radius=12&hide_border=true)](https://github.com/KayanAlnizari)
+[![Top Langs](https://vercel.app)](https://github.com)
+
 
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayanAlnizari&theme=calm&border_radius=12&hide_border=true" />
