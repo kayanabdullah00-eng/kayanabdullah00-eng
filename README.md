@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFC9F0,100:D9C9FF&height=220&section=header&text=Kayan%20Alnazari&fontSize=55&fontColor=6B21A8&animation=fadeIn&fontAlignY=38&desc=Marketing%20Strategist%20%7C%20Software%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=58&descSize=18&descColor=6B21A8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFC9F0,100:D9C9FF&height=220&section=header&text=Kayan%20Alnazari&fontSize=55&fontColor=6B21A8&animation=fadeIn&fontAlignY=38&desc=Marketing%20Strategist%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=6B21A8" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/KayanAlnizari">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Where+Marketing+Meets+Machine+Learning+💡;Passionate+about+Programming+%26+Marketing+;Riyadh%2C+Saudi+Arabia+🇸🇦+%7C+Welcome+to+my+GitHub!&font=Poppins&center=true&width=650&height=45&color=C026D3&vCenter=true&size=21&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Where+Marketing+Meets+Machine+Learning+💡;Passionate+about+Programming+%26+Marketing+✨;Building+Agentic+AI+with+a+Growth+Mindset;Riyadh%2C+Saudi+Arabia+🇸🇦+%7C+Welcome+to+my+GitHub!&font=Poppins&center=true&width=700&height=60&color=C026D3&background=FFF0FA&vCenter=true&size=21&pause=1200" width="700"/>
 </a>
 
 <br/>
@@ -25,8 +25,13 @@
 ```yaml
 kayan:
   name: "Kayan Alnazari"
+  role: "Software Engineering Trainee @ Holberton School (Tuwaiq Academy)"
+  also: "Marketing Student @ Princess Nourah University"
   location: "Riyadh, Saudi Arabia 🇸🇦"
   passions: "Programming 💻 + Marketing 📈 — and everywhere they overlap"
+  focus: "Agentic AI, Full-Stack Engineering, Data-driven Strategy"
+  currently_building: "AI agents that make smarter decisions than I do 😅"
+  fun_fact: "I speak both Python and marketing KPIs fluently"
 ```
 
 <table>
@@ -109,8 +114,15 @@ I'm genuinely passionate about **both sides** of what I do — writing code and 
 
 <details>
 <summary><b>🌷 Click to see my skill proficiency bars</b></summary>
+<br/>
 
-  </div>
+`Python` `██████████████████░░` 90%
+`Flask / REST APIs` `████████████████░░░░` 80%
+`SQL / SQLAlchemy` `███████████████░░░░░` 75%
+`Agentic AI / LangChain` `██████████████░░░░░░` 70%
+`JavaScript` `████████████░░░░░░░░` 60%
+`Digital Marketing Strategy` `██████████████████░░` 90%
+
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
@@ -118,14 +130,11 @@ I'm genuinely passionate about **both sides** of what I do — writing code and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Stats](https://vercel.app)](https://github.com)
 
-[![Top Langs](https://vercel.app)](https://github.com)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayanAlnizari&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&border_radius=12&hide_border=true)](https://github.com/KayanAlnizari)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayanAlnizari&layout=compact&theme=solarized-light&hide=html,css&border_radius=12&hide_border=true)](https://github.com/KayanAlnizari)
 
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayanAlnizari&theme=calm&border_radius=12&hide_border=true" />
