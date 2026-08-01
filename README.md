@@ -25,13 +25,8 @@
 ```yaml
 kayan:
   name: "Kayan Alnazari"
-  role: "Software Engineering Trainee @ Holberton School (Tuwaiq Academy)"
-  also: "Marketing Student @ Princess Nourah University"
   location: "Riyadh, Saudi Arabia 🇸🇦"
   passions: "Programming 💻 + Marketing 📈 — and everywhere they overlap"
-  focus: "Agentic AI, Full-Stack Engineering, Data-driven Strategy"
-  currently_building: "AI agents that make smarter decisions than I do 😅"
-  fun_fact: "I speak both Python and marketing KPIs fluently"
 ```
 
 <table>
@@ -114,15 +109,8 @@ I'm genuinely passionate about **both sides** of what I do — writing code and 
 
 <details>
 <summary><b>🌷 Click to see my skill proficiency bars</b></summary>
-<br/>
 
-`Python` `██████████████████░░` 90%
-`Flask / REST APIs` `████████████████░░░░` 80%
-`SQL / SQLAlchemy` `███████████████░░░░░` 75%
-`Agentic AI / LangChain` `██████████████░░░░░░` 70%
-`JavaScript` `████████████░░░░░░░░` 60%
-`Digital Marketing Strategy` `██████████████████░░` 90%
-
+  </div>
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
