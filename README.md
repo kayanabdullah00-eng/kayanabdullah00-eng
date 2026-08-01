@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/KayanAlnizari">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Where+Marketing+Meets+Machine+Learning+💡;Passionate+about+Programming+%26+Marketing+✨;Building+Agentic+AI+with+a+Growth+Mindset;Riyadh%2C+Saudi+Arabia+🇸🇦+%7C+Welcome+to+my+GitHub!&font=Poppins&center=true&width=650&height=45&color=C026D3&vCenter=true&size=21&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Where+Marketing+Meets+Machine+Learning+💡;Passionate+about+Programming+%26+Marketing+;Riyadh%2C+Saudi+Arabia+🇸🇦+%7C+Welcome+to+my+GitHub!&font=Poppins&center=true&width=650&height=45&color=C026D3&vCenter=true&size=21&pause=1200"/>
 </a>
 
 <br/>
