@@ -13,7 +13,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=KayanAlnizari.KayanAlnizari&left_color=F9A8D4&right_color=C4B5FD&left_text=Profile%20Views)
 [![Email](https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kayanabdullah00@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-D9FCE0?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/966508956110)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6EAFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6EAFF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kayan-b-3951092b1)
 [![GitHub](https://img.shields.io/badge/GitHub-EDEDED?style=for-the-badge&logo=github&logoColor=333)](https://github.com/KayanAlnizari)
 
 </div>
@@ -25,8 +25,13 @@
 ```yaml
 kayan:
   name: "Kayan Alnazari"
+  role: "Software Engineering Trainee @ Holberton School (Tuwaiq Academy)"
+  also: "Marketing Student @ Princess Nourah University"
   location: "Riyadh, Saudi Arabia 🇸🇦"
   passions: "Programming 💻 + Marketing 📈 — and everywhere they overlap"
+  focus: "Agentic AI, Full-Stack Engineering, Data-driven Strategy"
+  currently_building: "AI agents that make smarter decisions than I do 😅"
+  fun_fact: "I speak both Python and marketing KPIs fluently"
 ```
 
 <table>
@@ -125,8 +130,10 @@ I'm genuinely passionate about **both sides** of what I do — writing code and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KayanAlnizari&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&border_radius=12&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayanAlnizari&layout=compact&theme=solarized-light&hide=html,css&border_radius=12&hide_border=true" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayanAlnizari&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&border_radius=12&hide_border=true)](https://github.com/KayanAlnizari)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayanAlnizari&layout=compact&theme=solarized-light&hide=html,css&border_radius=12&hide_border=true)](https://github.com/KayanAlnizari)
+
 </div>
 
 <div align="center">
