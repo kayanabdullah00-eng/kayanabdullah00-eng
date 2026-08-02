@@ -25,13 +25,8 @@
 ```yaml
 kayan:
   name: "Kayan Alnazari"
-  role: "Software Engineering Trainee @ Holberton School (Tuwaiq Academy)"
-  also: "Marketing Student @ Princess Nourah University"
   location: "Riyadh, Saudi Arabia 🇸🇦"
   passions: "Programming 💻 + Marketing 📈 — and everywhere they overlap"
-  focus: "Agentic AI, Full-Stack Engineering, Data-driven Strategy"
-  currently_building: "AI agents that make smarter decisions than I do 😅"
-  fun_fact: "I speak both Python and marketing KPIs fluently"
 ```
 
 <table>
@@ -39,8 +34,8 @@ kayan:
 <td width="50%" valign="top">
 
 ### 🎓 Education
-- **Software Engineering** — Holberton School (Tuwaiq Academy)
 - **Marketing** — Princess Nourah University
+- **Software Engineering** — Holberton School (Tuwaiq Academy)
 
 </td>
 <td width="50%" valign="top">
